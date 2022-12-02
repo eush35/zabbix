@@ -1,6 +1,5 @@
 # zabbix
 Tools for Zabbix Monitoring
-
 Zabbix Agent for Ubuntu 22.04 
 ZBX Version 6.2.1
 Edit these lines for yourself.
